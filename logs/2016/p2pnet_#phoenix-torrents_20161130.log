@@ -1,0 +1,90 @@
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+v SomeBot2] by ChanServ
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [-v SomeBot2] by whocares
+[P2PNET:#phoenix-torrents] <PTF> 3Todays Egg/Eggscalibur Winners: ksbhutani (5/12), hybrid1 (1/2), MrBlonde (1/2), nicholls (1/2), Lamonder3 (0/2), Motorpike (0/2), GodsSoldier3 (0/1), mpup54 (0/1)
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+o JIF] by ChanServ
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+v JIF] by ptf2
+[P2PNET:#phoenix-torrents] <PTF> 3[FREE]4[New Movies/1080p HD Torrent] Vanished.Left.Behind.Next.Generation.2016.1080p.BluRay.x264-THUGLiNE - 6.55 GiB - https://ptfiles.net/details.php?id=197520
+[P2PNET:#phoenix-torrents] <PTF> 3[FREE]4[New Games/PC Torrent] Darksiders.Warmastered.Edition-CODEX - 21.65 GiB - https://ptfiles.net/details.php?id=197521
+[P2PNET:#phoenix-torrents] <Testicles> ・゜゜・。 ​ 。・゜゜\_0​< FLAP FL​AP!
+[P2PNET:#phoenix-torrents] <Undeadlord> .bang
+[P2PNET:#phoenix-torrents] <Testicles> Undeadlord you shot a duck in 33.776 seconds! You have killed 5 ducks in #phoenix-torrents.
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] The.Middle.S08E07.REPACK.720p.HDTV.X264-DIMENSION - 774.27 MiB - https://ptfiles.net/details.php?id=197522
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] The.Middle.S08E07.REPACK.HDTV.x264-LOL - 196.75 MiB - https://ptfiles.net/details.php?id=197523
+[P2PNET:#phoenix-torrents] <Cameron_Crazy> yolo
+[P2PNET:#phoenix-torrents] <Cameron_Crazy> ju2m3
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Marvels.Agents.of.S.H.I.E.L.D.S04E07.720p.HDTV.X264-DIMENSION - 975.59 MiB - https://ptfiles.net/details.php?id=197524
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Marvels.Agents.of.S.H.I.E.L.D.S04E07.HDTV.x264-LOL - 260.30 MiB - https://ptfiles.net/details.php?id=197525
+[P2PNET:#phoenix-torrents] <Cameron_Crazy> .bang
+[P2PNET:#phoenix-torrents] <Testicles> (Cameron_Crazy) There is no duck. What are you shooting at Dick Chaney? Watch where you are pointing that thing!
+[P2PNET:#phoenix-torrents] <JIF> duck
+[P2PNET:#phoenix-torrents] <Testicles> ・ ​ ゜゜・。。・゜゜\_o<​ q​uack!
+[P2PNET:#phoenix-torrents] <JIF> .bef
+[P2PNET:#phoenix-torrents] <ShadowManQ> .bang
+[P2PNET:#phoenix-torrents] <Testicles> (JIF) Who knew ducks could be so picky? You can try again in 7 seconds.
+[P2PNET:#phoenix-torrents] <Testicles> ShadowManQ you shot a duck in 2.705 seconds! You have killed 504 ducks in #phoenix-torrents.
+[P2PNET:#phoenix-torrents] <ShadowManQ> w00t
+[P2PNET:#phoenix-torrents] <JIF> .pizza ShadowManQ 
+[P2PNET:#phoenix-torrents] * Testicles sends ShadowManQ some leftovers of sourdough Chef's Special pizza with a sprinkle of dried grounded onion.
+[P2PNET:#phoenix-torrents] * ShadowManQ dodges and sends Testicles some leftovers of sourdough Chef's Special pizza with a sprinkle of dried grounded onion. :]
+[P2PNET:#phoenix-torrents] <Undeadlord> Question: I just yesterday had 4 or 5 torrents I was seeding go bad? The status of the tracker is "The operation timed out" Though the torrents still seem to be up on the site. Any reason for that? Just seems like 4 or 5 random ones?
+[P2PNET:#phoenix-torrents] <ShadowManQ> Undeadlord
+[P2PNET:#phoenix-torrents] <ShadowManQ> could be temporary routing issue from your isp to site
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Brooklyn.Nine-Nine.S04E08.720p.HDTV.x264-SVA - 514.74 MiB - https://ptfiles.net/details.php?id=197526
+[P2PNET:#phoenix-torrents] <ShadowManQ> keep them seeding, they should go back to green if it was a temporary issue with routing
+[P2PNET:#phoenix-torrents] <Undeadlord> Even if all 128 other torrents I have seeding are OK?
+[P2PNET:#phoenix-torrents] <ShadowManQ> yep
+[P2PNET:#phoenix-torrents] <Undeadlord> OK, no problem thanks
+[P2PNET:#phoenix-torrents] <ShadowManQ> they do not all re-announce to site at same time
+[P2PNET:#phoenix-torrents] <ShadowManQ> torrent clients keep track of each torrent's time and reannounces at usually like 30min intervals
+[P2PNET:#phoenix-torrents] <ShadowManQ> also make sure your torrent client is actually setup for a high enough max active seeds value, sometimes is more than 1 setting depending on client and version
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] The.Middle.S08E07.REPACK.1080p.HDTV.X264-DIMENSION - 2.30 GiB - https://ptfiles.net/details.php?id=197527
+[P2PNET:#phoenix-torrents] <ShadowManQ> and make sure to disable DHT and UDP in client, private trackers generally use just TCP connections
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Brooklyn.Nine-Nine.S04E08.HDTV.x264-FLEET - 155.14 MiB - https://ptfiles.net/details.php?id=197528
+[P2PNET:#phoenix-torrents] <Testicles> ・゜゜・。 ​ 。・゜゜\_O<​ QUACK​!
+[P2PNET:#phoenix-torrents] <ShadowManQ> .bang
+[P2PNET:#phoenix-torrents] <Fraggle> .bef
+[P2PNET:#phoenix-torrents] <Testicles> (Fraggle) You tried befriending a non-existent duck, that's fucking creepy.
+[P2PNET:#phoenix-torrents] <Testicles> ShadowManQ you shot a duck in 12.102 seconds! You have killed 505 ducks in #phoenix-torrents.
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] The.Flash.2014.S03E08.HDTV.x264-LOL - 279.46 MiB - https://ptfiles.net/details.php?id=197529
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] The.Flash.2014.S03E08.720p.HDTV.X264-DIMENSION - 795.22 MiB - https://ptfiles.net/details.php?id=197530
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] New.Girl.S06E08.720p.HDTV.x264-FLEET - 477.70 MiB - https://ptfiles.net/details.php?id=197531
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] American.Housewife.S01E07.HDTV.x264-FLEET - 155.83 MiB - https://ptfiles.net/details.php?id=197532
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] American.Housewife.S01E07.720p.HDTV.x264-AVS - 536.01 MiB - https://ptfiles.net/details.php?id=197533
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] New.Girl.S06E08.HDTV.x264-FLEET - 141.41 MiB - https://ptfiles.net/details.php?id=197534
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] New.Girl.S06E08.720p.HDTV.x264-SVA - 500.44 MiB - https://ptfiles.net/details.php?id=197535
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] American.Housewife.S01E07.HDTV.x264-FLEE - 155.83 MiB - https://ptfiles.net/details.php?id=197536
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] American.Housewife.S01E07.720p.HDTV.x264-FLEET - 562.69 MiB - https://ptfiles.net/details.php?id=197537
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] New.Girl.S06E08.HDTV.x264-DEFiNE - 147.16 MiB - https://ptfiles.net/details.php?id=197538
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] The.Voice.S11E21.HDTV.x264-BRISK - 392.13 MiB - https://ptfiles.net/details.php?id=197539
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] The.Voice.S11E21.720p.HDTV.x264-BRISK - 1.21 GiB - https://ptfiles.net/details.php?id=197540
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] The.Flash.2014.S03E08.1080p.HDTV.X264-DIMENSION - 2.27 GiB - https://ptfiles.net/details.php?id=197541
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Fresh.Off.the.Boat.S03E06.HDTV.x264-FLEET - 163.00 MiB - https://ptfiles.net/details.php?id=197542
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Kims.Convenience.S01E08.HDTV.x264-FLEET - 162.02 MiB - https://ptfiles.net/details.php?id=197543
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Fresh.Off.the.Boat.S03E06.720p.HDTV.x264-FLEET - 626.98 MiB - https://ptfiles.net/details.php?id=197544
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Vanderpump.Rules.S05E04.Thirsty.Girls-0.HDTV.x264-CRiMSON - 349.45 MiB - https://ptfiles.net/details.php?id=197545
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Scream.Queens.2015.S02E07.720p.HDTV.x264-SVA - 873.04 MiB - https://ptfiles.net/details.php?id=197546
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] This.Is.Us.S01E09.720p.HDTV.x264-FLEET - 787.38 MiB - https://ptfiles.net/details.php?id=197547
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] This.Is.Us.S01E09.HDTV.x264-FLEET - 252.40 MiB - https://ptfiles.net/details.php?id=197548
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Teen.Wolf.S06E03.720p.HDTV.x264-FLEET - 722.64 MiB - https://ptfiles.net/details.php?id=197549
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Teen.Wolf.S06E03.HDTV.x264-FLEET - 240.76 MiB - https://ptfiles.net/details.php?id=197550
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Scream.Queens.2015.S02E07.HDTV.x264-DEFiNE - 260.28 MiB - https://ptfiles.net/details.php?id=197551
+[P2PNET:#phoenix-torrents] <diegesis> wew
+[P2PNET:#phoenix-torrents] <ShadowManQ> pew pew pew... take that ducks!
+[P2PNET:#phoenix-torrents] <Testicles> ・゜゜ ​ ・。。・゜゜\_o​< quack​!
+[P2PNET:#phoenix-torrents] <diegesis> .bef
+[P2PNET:#phoenix-torrents] <Testicles> (diegesis) Who knew ducks could be so picky? You can try again in 7 seconds.
+[P2PNET:#phoenix-torrents] <Undeadlord> .bang
+[P2PNET:#phoenix-torrents] <Testicles> Undeadlord you shot a duck in 73.597 seconds! You have killed 6 ducks in #phoenix-torrents.
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+v Sing9030] by ptf2
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+h x0r] by ChanServ
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+v x0r] by ptf2
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+v Racquet] by ptf2
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Chicago.Fire.S05E07.720p.HDTV.x264-KILLERS - 978.63 MiB - https://ptfiles.net/details.php?id=197552
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Chicago.Fire.S05E07.HDTV.x264-KILLERS - 306.44 MiB - https://ptfiles.net/details.php?id=197553
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Shooter.S01E03.HDTV.x264-FLEET - 219.63 MiB - https://ptfiles.net/details.php?id=197554
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Aftermath.S01E10.720p.HDTV.x264-FLEET - 683.08 MiB - https://ptfiles.net/details.php?id=197555
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Shooter.S01E03.720p.HDTV.x264-FLEET - 649.55 MiB - https://ptfiles.net/details.php?id=197556
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Shooter.S01E03.720p.HDTV.x264-AVS - 754.83 MiB - https://ptfiles.net/details.php?id=197557
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/SD X264 Episodes Torrent] Aftermath.S01E10.HDTV.x264-FLEET - 220.60 MiB - https://ptfiles.net/details.php?id=197558
+[P2PNET:#phoenix-torrents] <PTF> 4[New TV/HD Episodes Torrent] Aftermath.S01E10.720p.HDTV.x264-AVS - 751.23 MiB - https://ptfiles.net/details.php?id=197559
+[P2PNET:#phoenix-torrents] -!- mode/#phoenix-torrents [+v kiran2b] by ptf2
