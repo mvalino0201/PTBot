@@ -149,7 +149,22 @@ class IrcClient(Client):
     def message(self, target, *messages):
         for text in messages:
             text = "".join(text.splitlines())
-            self.cmd("PRIVMSG", target, text)
+            if len(text) > 400:
+                output = []
+                count = 0
+                words = text.split()
+                for index in range(len(words)):
+                    if index == 0:
+                        output.insert(count, words[index])
+                    elif len(output[count]) < 425:
+                        output[count] = output[count] + " " + words[index]
+                    else:
+                        count = count + 1
+                        output.insert(count, words[index])
+                for index in range(len(output)):
+                    self.cmd("PRIVMSG", target, output[index])
+            else:
+                self.cmd("PRIVMSG", target, text)
 
     def action(self, target, text):
         text = "".join(text.splitlines())

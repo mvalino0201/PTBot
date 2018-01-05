@@ -46,3 +46,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 config.json
+*.wpr
+cloudbot.db
+*.pyc
+plugins/rssfeed
+plugins/client_secret.json
